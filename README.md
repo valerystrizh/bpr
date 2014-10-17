@@ -1,4 +1,4 @@
-Bayesian Personalized Ranking from Implicit Feedback in Java.
+Bayesian Personalized Ranking from Implicit Feedback in Java
 ===============
 ####Input
 
