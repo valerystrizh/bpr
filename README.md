@@ -1,5 +1,9 @@
 Bayesian Personalized Ranking from Implicit Feedback in Java
 ===============
+Bayesian Personalized Ranking (BPR) is a per-user learning algorithm for personalized ranking that optimizes Area Under the Curve (AUC) for each user.
+
+This implementation of BPR is written Java and implemented in Apache Giraph, which is a scalable graph processing framework built on top of Apache Hadoop.
+
 ####Input
 
 TXT file where each line is represented as  
